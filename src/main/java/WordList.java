@@ -26,6 +26,6 @@ public class WordList
         i--;
       }
   }
-    return myList;
+ 
 }
 }
